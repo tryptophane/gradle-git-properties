@@ -54,8 +54,8 @@ task sourceJar(type: Jar, dependsOn: classes) {
 }
 
 pluginBundle {
-    website = 'http://github.com/n0mer/gradle-git-properties'
-    vcsUrl = 'https://github.com/n0mer/gradle-git-properties'
+    website = 'http://github.com/tryptophane/gradle-git-properties'
+    vcsUrl = 'https://github.com/tryptophane/gradle-git-properties'
     description = 'Produce git.properties for spring-boot-actuator'
     tags = ['git', 'spring-boot']
 
